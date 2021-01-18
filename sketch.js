@@ -59,7 +59,7 @@ function draw() {
 	text("You Faild",400,300)
   }
  
-  keyPressed();
+  
   drawSprites();
   box1.display();
   box2.display();
